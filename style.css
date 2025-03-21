@@ -50,6 +50,9 @@ p {
   }
 
 @media (max-width: 600px) {
+    body{
+      overflow: hidden;
+    }
     h1 {
       font-size: 1.5em;
     }
